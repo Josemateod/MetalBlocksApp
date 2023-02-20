@@ -1,0 +1,16 @@
+MINERAL     PESO     PRECIO     METODO PAGO
+Cobre      502       4.5682      Cheque
+MINERAL     PESO     PRECIO     METODO PAGO
+Plata      345       270.3765      Transferencia
+MINERAL     PESO     PRECIO     METODO PAGO
+Cobre      600       5.46      Cheque
+MINERAL     PESO     PRECIO     METODO PAGO
+Cobre      1000       9.1      Efectivo
+MINERAL     PESO     PRECIO     METODO PAGO
+Cobre      700       6.3700004      Transferencia
+MINERAL     PESO     PRECIO     METODO PAGO
+Rubi      10       225000.0      Cheque
+MINERAL     PESO     PRECIO     METODO PAGO
+Cobre      600       5.46      Efectivo
+MINERAL     PESO     PRECIO     METODO PAGO
+Oro      20       1142.0      Transferencia
